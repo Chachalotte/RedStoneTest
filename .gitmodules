@@ -4,3 +4,6 @@
 [submodule "hello_foundry/lib/redstone-oracles-monorepo"]
 	path = hello_foundry/lib/redstone-oracles-monorepo
 	url = https://github.com/redstone-finance/redstone-oracles-monorepo
+[submodule "hello_foundry/lib/openzeppelin-contracts"]
+	path = hello_foundry/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
